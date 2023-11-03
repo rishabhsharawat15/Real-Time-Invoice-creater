@@ -1,0 +1,22 @@
+form{
+  border: 1px solid;
+  border-color: darkgray;
+  border-radius: 10px;
+}
+.table{
+  border-color: darkgray;
+  border-radius: 10px;
+}
+
+h1{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form{
+  border-radius: 5px;
+}
+input {
+  border: none;
+  background: none;
+ }
